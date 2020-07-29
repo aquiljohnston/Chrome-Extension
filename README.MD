@@ -1,3 +1,3 @@
 ## Chrome-Extension
 
-<img src="./Chorme-Extension.png" />
+<img src="https://github.com/aquiljohnston/Chrome-Extension/blob/master/Chorme-Extension.png" />
